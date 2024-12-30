@@ -1,0 +1,19 @@
+{
+  "name": "formassociated",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "lit": "^3.2.1",
+    "vite": "^6.0.6"
+  }
+}
